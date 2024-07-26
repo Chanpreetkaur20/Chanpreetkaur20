@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanpreet Kaur</h1>
 <h3 align="center">A cybersecurity enthusiast from India, specializing in secure and innovative web solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanpreetkaur20&label=Profile%20views&color=0e75b6&style=flat" alt="chanpreetkaur20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanpreetkaur20" alt="chanpreetkaur20" /></a> </p>
-
 - 🔭 I’m currently working on [DARC](https://github.com/sarthak4399/DARC)
 
 - 🌱 I’m currently learning **Cyber Security Web Exploitation and Penetration testing**
@@ -15,7 +11,7 @@
 
 - 📫 How to reach me **chanpreetkaur2005@gmail.com**
 
-- ⚡ Fun fact **I love hitting the gym and giving it my all every time!**
+- ⚡ Fun fact **I love hitting the gym in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
