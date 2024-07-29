@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chanpreetkaur2005](https://medium.com/@chanpreetkaur2005)
 
-- 💬 Ask me about **PHP, Python, MySql, Ajax**
+- 💬 Ask me about **PHP, Python, MySql, Ajax, Bash Scripting**
 
 - 📫 How to reach me **chanpreetkaur2005@gmail.com**
 
