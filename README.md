@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on TaskStack.
 
-- 🌱 I’m currently ** Preparing CCNA, CEH, OSCP**
+- 🌱 I’m currently **Preparing CCNA, CEH, OSCP**
 
 - 📝 I regularly write articles on [https://medium.com/@chanpreetkaur2005](https://medium.com/@chanpreetkaur2005)
 
