@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chanpreet Kaur</h1>
 <h3 align="center">A cybersecurity enthusiast from India, specializing in secure and innovative web solutions.</h3>
 
-- 🔭 I’m currently working on [DARC](https://github.com/sarthak4399/DARC)
+- 🔭 I’m currently working on TaskStack.
 
-- 🌱 I’m currently learning **Cyber Security Web Exploitation and Penetration testing**
+- 🌱 I’m currently ** Preparing CCNA, CEH, OSCP**
 
 - 📝 I regularly write articles on [https://medium.com/@chanpreetkaur2005](https://medium.com/@chanpreetkaur2005)
 
-- 💬 Ask me about **PHP, Python, MySql, Ajax, Bash Scripting**
+- 💬 Ask me about **Cyber Security ,Penetration Testing ,Web Development**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Jv0xsdfXNI3bETZkGaW2SyOPUu4v_vQK/view?usp=sharing)
 
 - 📫 How to reach me **chanpreetkaur2005@gmail.com**
 
