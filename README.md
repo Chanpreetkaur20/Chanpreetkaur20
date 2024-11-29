@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Cyber Security ,Penetration Testing ,Web Development**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Jv0xsdfXNI3bETZkGaW2SyOPUu4v_vQK/view?usp=sharing](https://drive.google.com/file/d/178jWJ9YyrpPowAp8tzncNwMIbrM6rYbO/view?usp=sharing))
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Jv0xsdfXNI3bETZkGaW2SyOPUu4v_vQK/view?usp=sharing])(https://drive.google.com/file/d/178jWJ9YyrpPowAp8tzncNwMIbrM6rYbO/view?usp=sharing))
 
 - 📫 How to reach me **chanpreetkaur2005@gmail.com**
 
